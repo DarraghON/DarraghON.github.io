@@ -142,7 +142,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #fff;
-		font-family: "open sans", Helvetica, sans-serif;
+		font-family: "open sans", Helvetica, Kensmark.03, sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
 		letter-spacing: 0.075em;
