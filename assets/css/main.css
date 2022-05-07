@@ -1,16 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
 
-#desktopNav, .title-desc-inner {
-  animation: fade-me-in 1.5s;
-}
-
-@keyframes fade-me-in {
-  0% {opacity:0;}
-  80% {opacity:0;}
-  100% {opacity:1;}
-}
-
 @font-face {
     font-family: 'Coolvetica Rg';
     src: url('CoolveticaRg-Regular.woff2') format('woff2'),
@@ -47,7 +37,7 @@
 */
 
 html, body, div, span, applet, object,
-iframe, h3, h4, h5, h6, p, blockquote,
+iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
 code, del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var, b,
@@ -138,21 +128,11 @@ input, select, textarea {
 			-webkit-transition: none !important;
 			-ms-transition: none !important;
 			transition: none !important;
-		
-
-	}
-		h1, h2 {
-		color: #fff;
-		font-family: "Kensmark.03", sans-serif;
-		font-size: 15pt;
-		font-weight: 400;
-		letter-spacing: 0.075em;
-		line-height: 1.65em;
-	}
+		}
 
 	body, input, select, textarea {
 		color: #fff;
-		font-family: "open sans", Helvetica, Kensmark.03, sans-serif;
+		font-family: "open sans", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
 		letter-spacing: 0.075em;
@@ -220,6 +200,7 @@ input, select, textarea {
 		line-height: 1em;
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
+		font-family: "Kensmark.03", sans-serif;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -230,6 +211,7 @@ input, select, textarea {
 	h2 {
 		font-size: 1.35em;
 		line-height: 1.75em;
+		font-family: "Kensmark.03", sans-serif;
 	}
 
 		@media screen and (max-width: 736px) {
