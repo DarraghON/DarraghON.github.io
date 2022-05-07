@@ -138,7 +138,17 @@ input, select, textarea {
 			-webkit-transition: none !important;
 			-ms-transition: none !important;
 			transition: none !important;
-		}
+		
+
+	}
+		h1, h2 {
+		color: #fff;
+		font-family: "Kensmark.03", sans-serif;
+		font-size: 15pt;
+		font-weight: 400;
+		letter-spacing: 0.075em;
+		line-height: 1.65em;
+	}
 
 	body, input, select, textarea {
 		color: #fff;
@@ -149,14 +159,6 @@ input, select, textarea {
 		line-height: 1.65em;
 	}
 
-		h1, h2 {
-		color: #fff;
-		font-family: "Kensmark.03", sans-serif;
-		font-size: 15pt;
-		font-weight: 400;
-		letter-spacing: 0.075em;
-		line-height: 1.65em;
-	}
 
 		@media screen and (max-width: 1680px) {
 
