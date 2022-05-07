@@ -1,6 +1,35 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
 
+@font-face {
+    font-family: 'Coolvetica Rg';
+    src: url('CoolveticaRg-Regular.woff2') format('woff2'),
+        url('CoolveticaRg-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kensmark.03';
+    src: url('Kensmark03-Bold.woff2') format('woff2'),
+        url('Kensmark03-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kensmark.03 Bold Slant';
+    src: url('Kensmark03-BoldSlant.woff2') format('woff2'),
+        url('Kensmark03-BoldSlant.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
 /*
 	Spectral by HTML5 UP
 	html5up.net | @ajlkn
@@ -103,7 +132,16 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #fff;
-		font-family: "Open Sans", Helvetica, sans-serif;
+		font-family: "open sans", Helvetica, sans-serif;
+		font-size: 15pt;
+		font-weight: 400;
+		letter-spacing: 0.075em;
+		line-height: 1.65em;
+	}
+
+		h1, h2 {
+		color: #fff;
+		font-family: "Kensmark.03", sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
 		letter-spacing: 0.075em;
