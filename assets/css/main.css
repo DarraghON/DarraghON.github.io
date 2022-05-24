@@ -2073,8 +2073,8 @@ input, select, textarea {
 			font-weight: 900;
 		}
 
-		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+		.icon.free:before {
+			font-family: 'Font Awesome 5 Free';
 		}
 
 		.icon.major {
@@ -3012,7 +3012,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #ff7538;
+			background-color: #517399;
 			color: #ffffff;
 		}
 
