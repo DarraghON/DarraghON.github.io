@@ -408,6 +408,9 @@
 .fa-empire:before {
   content: "\f1d1"; }
 
+.fa-envelope::before {
+  content: "\f0e0"; }
+
 .fa-envira:before {
   content: "\f299"; }
 
