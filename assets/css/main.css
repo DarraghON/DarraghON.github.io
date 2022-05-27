@@ -19,6 +19,14 @@
 }
 
 @font-face {
+    font-family: 'League Spartan Light';
+    src: url("/assets/webfonts/LeagueSpartan-Light.woff2") format('woff2'),
+        url("/assets/webfonts/LeagueSpartan-Light.woff") format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'Kensmark.03 Bold Slant';
     src: url('Kensmark03-BoldSlant.woff2') format('woff2'),
         url('Kensmark03-BoldSlant.woff') format('woff');
@@ -29,11 +37,7 @@
 
 
 
-/*
-	Spectral by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -131,7 +135,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #fff;
-		font-family: "Open Sans", Helvetica, sans-serif;
+		font-family: "League Spartan Light", sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
 		letter-spacing: 0.075em;
