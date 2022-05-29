@@ -1,54 +1,47 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-	<loc>https://orbitracing.ie/</loc>
-	<lastmod>2022-05-22T22:26:22+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://orbitracing.ie/</loc>
+  <lastmod>2022-05-29T10:37:32+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-	<loc>https://orbitracing.ie/index.html</loc>
-	<lastmod>2022-05-22T22:26:22+01:00</lastmod>
-	<priority>1.0</priority>
-	<image:image>
-			<image:loc>https://orbitracing.ie/images/pic03.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://orbitracing.ie/images/pic02.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://orbitracing.ie/images/pic01.jpg</image:loc>
-	</image:image>
+  <loc>https://orbitracing.ie/team</loc>
+  <lastmod>2022-05-29T10:37:32+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://orbitracing.ie/The%20Team.html</loc>
-	<lastmod>2022-05-22T22:26:22+01:00</lastmod>
-	<priority>1.0</priority>
-	<image:image>
-			<image:loc>https://orbitracing.ie/images/pic04.jpg</image:loc>
-	</image:image>
+  <loc>https://orbitracing.ie/sponsors</loc>
+  <lastmod>2022-05-29T10:37:32+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://orbitracing.ie/Sponsors.html</loc>
-	<lastmod>2022-05-22T22:26:22+01:00</lastmod>
-	<priority>1.0</priority>
-	<image:image>
-			<image:loc>https://orbitracing.ie/images/pic05.jpg</image:loc>
-	</image:image>
+  <loc>https://orbitracing.ie/updates</loc>
+  <lastmod>2022-05-29T10:37:32+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://orbitracing.ie/Updates.html</loc>
-	<lastmod>2022-05-22T22:26:22+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://orbitracing.ie/marketing</loc>
+  <lastmod>2022-05-29T10:37:32+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://orbitracing.ie/Social%20Media%20-%20Marketing.html</loc>
-	<lastmod>2022-05-22T22:26:22+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://orbitracing.ie/images/Prospectus.pdf</loc>
+  <lastmod>2022-05-29T10:37:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://orbitracing.ie/images/Prospectus.pdf</loc>
-	<lastmod>2022-05-22T22:26:22+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://orbitracing.ie/index.html</loc>
+  <lastmod>2022-05-29T10:37:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+
+
 </urlset>
