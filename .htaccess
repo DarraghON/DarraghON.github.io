@@ -6,4 +6,7 @@ RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC,L]
-RewriteRule ^[^/.]+\.(pdf|doc|vcf)$ /site-content/import/uploads%{REQUEST_URI} [L,R]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.vcf -f
+RewriteRule ^(.*)$ $1.vcf [NC,L]
