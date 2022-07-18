@@ -1,8 +1,4 @@
 User-agent: *
 Allow: /
 
-User-agent: Googlebot
-Allow: /
-
-
-Sitemap: https://orbitracing.ie/sitemap.xml
+Sitemap: https://typhoonracing.ie/sitemap.xml

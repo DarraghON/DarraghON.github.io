@@ -1,0 +1,56 @@
+ <!-- .testimonial-section -->
+    <section class="classic-block dna-block bg-alabaster-white text-cod-black testimonial-section">
+      <div class="classic-container dna-container alignwide">
+        <div class="classic-wrapper dna-wrapper">
+          <div class="classic-head">
+            <h2 class="dna-head"><span>Our</span><br> Sponsors</h2>
+          </div>
+          <div class="classic-body">
+            <div class="testimonial-block">
+              <ul>
+                <li>
+                  <div class="testimonial-image">
+                    <img src="assets/images/preview/testimonial-1.jpg" alt="Testimonial One">
+                  </div>
+                  <div class="testimonial-body">
+                    <p class="testimonial-text">-</p>
+                    <p class="testimonial-author">Coming Soon</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="testimonial-image">
+                    <img src="assets/images/preview/testimonial-2.jpg" alt="Testimonial One">
+                  </div>
+                  <div class="testimonial-body">
+                    <p class="testimonial-text">-</p>
+                    <p class="testimonial-author">Coming Soon</p>
+                  </div>
+                </li>
+                <li>
+
+                  <div class="testimonial-image">
+                    <img src="assets/images/preview/testimonial-1.jpg" alt="Testimonial One">
+                  </div>
+                  <div class="testimonial-body">
+                    <p class="testimonial-text">-</p>
+                    <p class="testimonial-author">Coming Soon</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="testimonial-image">
+                    <img src="assets/images/preview/testimonial-2.jpg" alt="Testimonial One">
+                  </div>
+                  <div class="testimonial-body">
+                    <p class="testimonial-text">-</p>
+                    <p class="testimonial-author">Coming Soon</p>
+                  </div>
+                </li>                
+
+
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /.testimonial-section -->
