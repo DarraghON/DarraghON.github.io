@@ -24,7 +24,7 @@
 }
 
 :root{
-    --global-body-font-family: Sora, sans-serif;
+    --global-body-font-family: League Spartan Light, sans-serif;
     --global-heading-font-family: Poppins, sans-serif;
     --global-branding-font-family: Poppins, sans-serif;
     --global-menu-font-family: PT Sans, sans-serif;
@@ -281,13 +281,14 @@ a {
 		font-style: italic;
 	}
 
-	p {
-		margin: 0 0 2em 0;
-
-	}
+    p {
+        margin: 0 0 2em 0;
+        color: #000000;
+    font-family:var(--global-heading-font-family)
+    }
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #0d51bf;
+		color: #09347a;
 		font-weight: 800;
 		letter-spacing: 0.225em;
 		line-height: 1em;
