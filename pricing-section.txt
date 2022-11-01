@@ -1,0 +1,103 @@
+<!-- .pricing-section -->
+    <section class="standard-block dna-block bg-white text-cod-black pricing-section">
+      <div id="sponsorship" class="standard-container dna-container alignfull">
+        <div class="standard-wrapper dna-wrapper">
+          <div class="standard-head alignwide">
+            <h2 class="dna-head"><span>Our</span><br> Sponsor Packages</h2>
+            <p>These sponsors and partners have given us the resources we needed to pursue our journey.</p>
+          </div>
+          <div class="standard-body">
+            <div class="pricing-block alignlarge">
+              <ul>
+                <li>
+                  <h3 class="plan-title">Bronze</h3>
+                  <div class="plan-price">
+                    <span class="plan-amount">€200</span>
+                    <span class="plan-interval">EUR / year</span>
+                  </div>
+                  <ul class="plan-detail">
+                    <li> </li>
+                    <li></li>
+                    <li>TBC</li>
+                    <li></li>
+                    <li></li>
+                  </ul>
+                  <div class="plan-button">
+                    <a href="#" class="button rounded">Choose</a>
+                  </div>
+                </li>
+                <li>
+                  <h3 class="plan-title">Silver</h3>
+                  <div class="plan-price">
+                    <span class="plan-amount">€500</span>
+                    <span class="plan-interval">EUR / year</span>
+                  </div>
+                  <ul class="plan-detail">
+                     <li> </li>
+                    <li></li>
+                    <li>TBC</li>
+                    <li></li>
+                    <li></li>
+                  </ul>
+                  <div class="plan-button">
+                    <a href="#" class="button rounded">Choose</a>
+                  </div>
+                </li>
+                <li>
+                  <h3 class="plan-title">Gold</h3>
+                  <div class="plan-price">
+                    <span class="plan-amount">€750</span>
+                    <span class="plan-interval">EUR / year</span>
+                  </div>
+                  <ul class="plan-detail">
+                     <li> </li>
+                    <li></li>
+                    <li>TBC</li>
+                    <li></li>
+                    <li></li>
+                  </ul>
+                  <div class="plan-button">
+                    <a href="#" class="button rounded">Choose</a>
+                  </div>
+                </li>
+                <li>
+                  <h3 class="plan-title">Platnium</h3>
+                  <div class="plan-price">
+                    <span class="plan-amount">€1,000</span>
+                    <span class="plan-interval">EUR / year</span>
+                  </div>
+                  <ul class="plan-detail">
+                     <li> </li>
+                    <li></li>
+                    <li>TBC</li>
+                    <li></li>
+                    <li></li>
+                  </ul>
+                  <div class="plan-button">
+                    <a href="#" class="button rounded">Choose</a>
+                  </div>
+                </li>
+                <li>
+                  <h3 class="plan-title">In-Kind</h3>
+                  <div class="plan-price">
+                    <span class="plan-amount">-</span>
+                    <span class="plan-interval">EUR / year</span>
+                  </div>
+                  <ul class="plan-detail">
+                     <li> </li>
+                    <li></li>
+                    <li>TBC</li>
+                    <li></li>
+                    <li></li>
+                  </ul>
+                  <div class="plan-button">
+                    <a href="#" class="button rounded">Choose</a>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /.pricing-section -->
