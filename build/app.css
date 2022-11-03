@@ -1538,7 +1538,7 @@ body.hamburger-active{
 .nav-block ul li::before{
     counter-increment:navcounter;
     content:counter(navcounter);
-    color:var(--global-gray-color);
+    color:var(--global-white-color);
     position:absolute;
     top:0;
     left:-1.25rem;
@@ -1607,15 +1607,15 @@ body.hamburger-active{
     transition:opacity 200ms 500ms linear
 }
 .info-block h2{
-    color:var(--global-platinum-white-color);
+    color:var(--global-white-color);
     margin-bottom:1rem
 }
 .info-block p,.info-block address{
-    color:var(--global-gray-color)
+    color:var(--global-white-color)
 }
 .info-block a,.info-block a:visited{
     cursor:pointer;
-    color:var(--global-gray-color);
+    color:var(--global-white-color);
     text-decoration:none
 }
 .info-block a:hover{
