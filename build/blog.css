@@ -45,8 +45,9 @@
     --global-light-blue-color: #09347a;
     --global-oxford-blue-color: #09347a;
     --global-yellow-color: #ff7538;
-    --global-accent-color: #09347a;
-    --global-highlight-color: #001b7e
+    --global-accent-color: #87bfff;
+    --global-highlight-color: #001b7e;
+    --global-social-color: #4472c4
 }
 
 
@@ -1416,7 +1417,7 @@ address{
     text-decoration:none
 }
 .social-media-block>ul>li a:hover{
-    color:var(--global-accent-color)
+    color:var(--global-social-color)
 }
 .social-media-block>ul>li svg{
     width:24px;
