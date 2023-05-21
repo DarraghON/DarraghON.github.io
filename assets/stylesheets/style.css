@@ -1,0 +1,160 @@
+@import url(variables.css);
+@font-face {
+    font-family: 'Kensmark.03';
+    src: url("/assets/webfonts/Kensmark03-Bold.woff2") format('woff2'),
+        url("/assets/webfonts/Kensmark03-Bold.woff") format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'League Spartan Light';
+    src: url("/assets/webfonts/LeagueSpartan-Light.woff2") format('woff2'),
+        url("/assets/webfonts/LeagueSpartan-Light.woff") format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kensmark.03 Bold Slant';
+    src: url('Kensmark03-BoldSlant.woff2') format('woff2'),
+        url('Kensmark03-BoldSlant.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+:root{
+    --global-body-font-family: Sora, sans-serif;
+    --global-heading-font-family: Poppins, sans-serif;
+    --global-branding-font-family: Poppins, sans-serif;
+    --global-menu-font-family: PT Sans, sans-serif;
+    --global-code-font-family: menlo, monaco, consolas, Courier New, monospace;
+    --global-black-color: #09347a;
+    --global-cod-black-color: #1a1a1a;
+    --global-rich-black-color: #0d0d0d;
+    --global-shaft-black-color: #262626;
+    --global-white-color: #fff;
+    --global-platinum-white-color: #e6e6e6;
+    --global-alabaster-white-color: #f7f7f7;
+    --global-gray-color: #808080;
+    --global-dark-gray-color: #4d4d4d;
+    --global-dim-gray-color: #666;
+    --global-light-gray-color: #ccc;
+    --global-blue-color: #09347a;
+    --global-dark-blue-color: #09347a;
+    --global-light-blue-color: #09347a;
+    --global-oxford-blue-color: #09347a;
+    --global-yellow-color: #ff7538;
+    --global-accent-color: #87bfff;
+    --global-highlight-color: #001b7e;
+    --global-social-color: #4472c4
+}
+
+
+@-webkit-keyframes fadeIn{
+	0%{
+		opacity:0
+}
+	to{
+		opacity:1
+}
+}
+@keyframes fadeIn{
+	0%{
+		opacity:0
+}
+	to{
+		opacity:1
+}
+}
+::selection{
+	background-color:var(--global-white-color);
+}
+::-webkit-scrollbar{
+	-webkit-appearance:none;
+	width:4px;
+	height:4px
+}
+::-webkit-scrollbar-button{
+	display:none
+}
+::-webkit-scrollbar-thumb{
+	background-color:var(--accent)
+}
+*{
+	font-family:'j';
+	margin:0
+}
+html{
+	scroll-behavior:smooth
+}
+h1,span{
+	font-weight:400;
+	color:var(--text)
+}
+.lnk{
+	text-decoration:none;
+	color:var(--text);
+	transition:.6s ease-in-out
+}
+.lnk:hover{
+	color:var(--texthov)
+}
+a{
+	margin:0 10px 0 10px;
+	text-decoration:none
+}
+body{
+	background-color:var(--global-blue-color);
+	background-image:url(../images/topography.svg);
+	-webkit-animation-name:fadeIn;
+	animation-name:fadeIn;
+	animation-duration:1s
+}
+.g{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-direction:column;
+	height:80vh
+}
+i{
+	font-style:normal;
+	font-size:24px;
+	padding-left:.2rem;
+	padding-right:.2rem
+}
+.fa-brands{
+	color:var(--icons);
+	transition:.3s ease-in
+}
+.fa-brands:hover{
+	color:var(--accent)
+}
+
+.copyright-block{
+    font-size:.875rem;
+    line-height:1.5rem;
+    color:var(--global-light-gray-color)
+}
+.copyright-block>ul{
+    width:100%;
+    margin:0;
+    padding:0;
+    list-style:none;
+    display:flex;
+    flex-direction:column;
+    gap:.25rem
+}
+.copyright-block a,.copyright-block a:visited{
+    color:currentColor;
+    text-decoration:none
+}
+.copyright-block a:hover{
+    text-decoration:none
+}
+.copyright-block .unicode{
+    color:#e31b23;
+    font-size:1.375rem;
+    line-height:1
+}
