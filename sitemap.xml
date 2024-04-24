@@ -9,32 +9,62 @@
 
 <url>
   <loc>https://orbitracing.ie/</loc>
-  <lastmod>2023-01-17T19:12:30+00:00</lastmod>
+  <lastmod>2024-04-09T13:19:19+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://orbitracing.ie/newsletter</loc>
-  <lastmod>2023-01-17T19:12:30+00:00</lastmod>
+  <lastmod>2024-04-09T13:19:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://orbitracing.ie/portfolios</loc>
+  <lastmod>2024-04-09T13:19:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://orbitracing.ie/newsletter/christmas.pdf</loc>
-  <lastmod>2023-01-17T19:12:30+00:00</lastmod>
+  <lastmod>2024-04-09T13:19:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://orbitracing.ie/branding-guidlines.pdf</loc>
-  <lastmod>2023-01-17T19:12:29+00:00</lastmod>
+  <lastmod>2024-04-09T13:19:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://orbitracing.ie/prospectus.pdf</loc>
-  <lastmod>2023-01-17T19:12:30+00:00</lastmod>
+  <lastmod>2024-04-09T13:19:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://orbitracing.ie/newsletter/halloween.pdf</loc>
-  <lastmod>2023-01-17T19:12:30+00:00</lastmod>
+  <lastmod>2024-04-09T13:19:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://orbitracing.ie/enterprise.pdf</loc>
+  <lastmod>2024-04-09T13:19:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://orbitracing.ie/engineering.pdf</loc>
+  <lastmod>2024-04-09T13:19:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://orbitracing.ie/drawings.pdf</loc>
+  <lastmod>2024-04-09T13:19:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://orbitracing.ie/presentation.pdf</loc>
+  <lastmod>2024-04-09T13:19:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://orbitracing.ie/plan.pdf</loc>
+  <lastmod>2024-04-09T13:19:19+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
